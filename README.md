@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Prettier](https://prettier.io/) : Code formatter
 - [Husky](https://typicode.github.io/husky/#/) : Git Hooks for commit and push actions
 - [Lint staged](https://github.com/okonet/lint-staged) : Runs linters against git staged files
+- [Styled components](https://styled-components.com/) : React-specific CSS-in-JS styling solution
 
 ## Assumptions
 

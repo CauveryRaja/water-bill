@@ -1,7 +1,11 @@
-import './App.css';
+import { Greeting } from './App.style';
 
 function App() {
-  return <div className="App">Hello, Welcome to WaterBill</div>;
+  return (
+    <div>
+      <Greeting>Hello, Welcome to WaterBill</Greeting>
+    </div>
+  );
 }
 
 export default App;
